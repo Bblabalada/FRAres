@@ -12,13 +12,13 @@
 	"chr.betty.passive3": "50%则减速。",
 	"chr.betty.mw": "镰刀",
 	"chr.betty.mw1": "幻化而成的魔法镰刀,斩击敌人可以",
-	"chr.betty.mw2": "对其造成高额伤害",
+	"chr.betty.mw2": "对其造成高额伤害。",
 	"chr.betty.ch": "恐惧之纹",
 	"chr.betty.ch1": "释放恐惧波动影响五米内的玩家，并",
 	"chr.betty.ch2": "控制附近十五米内的部分弹幕使其转",
 	"chr.betty.ch3": "向原攻击者并提高50%伤害。",
 	"chr.betty.dt": "憎恨解放",
-	"chr.betty.dt1": "持续释放憎恨侵蚀自身，憎恨会随着",
-	"chr.betty.dt2": "时间流失，期间每秒增加10%攻击力",
-	"chr.betty.dt3": "并失去1%当前生命值直到技能结束。"
+	"chr.betty.dt1": "释放憎恨侵蚀自身，憎恨会随时间流",
+	"chr.betty.dt2": "失，期间每秒增加10%攻击力并失去",
+	"chr.betty.dt3": "3%当前生命值直到结束，最高50%。"
 }
