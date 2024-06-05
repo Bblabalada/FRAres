@@ -36,6 +36,15 @@
 	{"predicate":{"custom_model_data":30},"model":"item/head/napstablook"},
 	{"predicate":{"custom_model_data":31},"model":"item/head/maddummy"},
 	{"predicate":{"custom_model_data":32},"model":"item/head/mettatonex"},
+	{"predicate":{"custom_model_data":88101},"model":"fra:item/head/betty"},
+	{"predicate":{"custom_model_data":88102},"model":"fra:item/head/clover"},
+	{"predicate":{"custom_model_data":88103},"model":"fra:item/head/kris"},
+	{"predicate":{"custom_model_data":88104},"model":"fra:item/head/marisa"},
+	{"predicate":{"custom_model_data":88105},"model":"fra:item/head/red"},
+	{"predicate":{"custom_model_data":88106},"model":"fra:item/head/reimu"},
+	{"predicate":{"custom_model_data":88107},"model":"fra:item/head/sakuya"},
+	{"predicate":{"custom_model_data":88108},"model":"fra:item/head/susie"},
+	{"predicate":{"custom_model_data":88109},"model":"fra:item/head/ralsei"},
 	{"predicate":{"custom_model_data":103},"model":"item/head/undyne_armor"}
   ]
 }
