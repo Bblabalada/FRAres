@@ -17,11 +17,6 @@
         },
         {
             "type": "directory",
-            "source": "misc",
-            "prefix": "misc/"
-        },
-        {
-            "type": "directory",
             "source": "move",
             "prefix": "move/"
         },
