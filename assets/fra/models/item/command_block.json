@@ -1,9 +1,0 @@
-{
-    "parent": "block/command_block",
-	"display": {
-		"head": {
-			"translation": [0, -40, 0],
-			"scale": [1.2, 1.2, 1.2]
-		}
-	}
-}

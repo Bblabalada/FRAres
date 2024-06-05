@@ -1,7 +1,0 @@
-{
-	"parent":"item/button_leave",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"2": "move/button_maze"
-	}
-}
