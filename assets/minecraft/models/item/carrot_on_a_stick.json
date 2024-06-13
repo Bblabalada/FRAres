@@ -119,27 +119,13 @@
 		{"predicate":{"custom_model_data":1018},"model":"item/cannedsoul8"},
 		{"predicate":{"custom_model_data":9043},"model":"item/sea_pickle"},
 		{"predicate":{"custom_model_data":9257},"model":"item/metta_soul_hand_buffed"},
-		{"predicate":{"custom_model_data":2001},"model":"fra:item/sabber"},
-		{"predicate":{"custom_model_data":2003},"model":"fra:item/split"},
-		{"predicate":{"custom_model_data":2004},"model":"fra:item/skill_knife"},
-		{"predicate":{"custom_model_data":2005},"model":"fra:item/pocket_watch"},
-		{"predicate":{"custom_model_data":2006},"model":"fra:item/prismarine_shard"},
-		{"predicate":{"custom_model_data":2007},"model":"fra:item/prismarine_crystals"},
-		{"predicate":{"custom_model_data":2008},"model":"fra:item/totem_of_undying"},
-		{"predicate":{"custom_model_data":2009},"model":"fra:item/phantom_membrane"},
-		{"predicate":{"custom_model_data":2010},"model":"fra:item/card_attack"},
-		{"predicate":{"custom_model_data":2011},"model":"fra:item/rabbit_hide"},
-		{"predicate":{"custom_model_data":2012},"model":"fra:item/star_dream"},
-		{"predicate":{"custom_model_data":2013},"model":"fra:item/cookie"},
-		{"predicate":{"custom_model_data":2014},"model":"fra:item/wooden_hoe"},
-		{"predicate":{"custom_model_data":2015},"model":"fra:item/lead"},
-		{"predicate":{"custom_model_data":2016},"model":"fra:item/justice"},
 		{"predicate":{"custom_model_data":8810101},"model":"fra:item/sickle_betty"},
 		{"predicate":{"custom_model_data":8810102},"model":"fra:item/fear_wave"},
 		{"predicate":{"custom_model_data":8810103},"model":"fra:item/hate_release"},
 		{"predicate":{"custom_model_data":8810301},"model":"fra:item/kris_sword"},
 		{"predicate":{"custom_model_data":8810302},"model":"fra:item/kris_shield"},
 		{"predicate":{"custom_model_data":8810303},"model":"fra:item/x_slash"}
+		
 	],
 	"display": {
 		"ground": {
