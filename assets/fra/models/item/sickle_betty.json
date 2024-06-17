@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/scythe"
+		"layer0": "fra:move/sickle_betty"
 	},
 	"overrides": [
 		{"predicate": {"pulling": 1}, "model": "item/bow_pulling_0"},
