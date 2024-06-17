@@ -119,13 +119,17 @@
 		{"predicate":{"custom_model_data":1018},"model":"item/cannedsoul8"},
 		{"predicate":{"custom_model_data":9043},"model":"item/sea_pickle"},
 		{"predicate":{"custom_model_data":9257},"model":"item/metta_soul_hand_buffed"},
+
+
 		{"predicate":{"custom_model_data":8810101},"model":"fra:item/sickle_betty"},
 		{"predicate":{"custom_model_data":8810102},"model":"fra:item/fear_wave"},
 		{"predicate":{"custom_model_data":8810103},"model":"fra:item/hate_release"},
 		{"predicate":{"custom_model_data":8810301},"model":"fra:item/kris_sword"},
 		{"predicate":{"custom_model_data":8810302},"model":"fra:item/kris_shield"},
-		{"predicate":{"custom_model_data":8810303},"model":"fra:item/x_slash"}
-		
+		{"predicate":{"custom_model_data":8810303},"model":"fra:item/x_slash"},
+
+
+		{"predicate":{"custom_model_data":8819999},"model":"fra:blank"}
 	],
 	"display": {
 		"ground": {
