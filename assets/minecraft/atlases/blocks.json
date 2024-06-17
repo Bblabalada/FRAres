@@ -30,6 +30,14 @@
             "source": "ut",
             "prefix": "ut/"
         },
+                {
+            "type": "single",
+            "resource": "minecraft:gb_bone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:gb_eye"
+        },
         {
             "type": "directory",
             "source": "fra:move",
@@ -41,12 +49,19 @@
             "prefix": "fra:skin/"
         },
         {
-            "type": "single",
-            "resource": "minecraft:gb_bone"
+            "type": "directory",
+            "source": "cua:trims",
+            "prefix": "cua:trims/"
         },
         {
-            "type": "single",
-            "resource": "minecraft:gb_eye"
+            "type": "directory",
+            "source": "cua:move",
+            "prefix": "cua:move/"
+        },
+        {
+            "type": "directory",
+            "source": "cua:skin",
+            "prefix": "cua:skin/"
         }
     ]
 }
