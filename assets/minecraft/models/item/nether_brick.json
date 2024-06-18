@@ -39,6 +39,9 @@
 	{"predicate":{"custom_model_data":103},"model":"item/head/undyne_armor"},
 
 
+	{"predicate":{"custom_model_data":6710100},"model":"cua:item/head/murder"},
+
+
 	{"predicate":{"custom_model_data":8810101},"model":"fra:item/head/betty"},
 	{"predicate":{"custom_model_data":8810201},"model":"fra:item/head/clover"},
 	{"predicate":{"custom_model_data":8810301},"model":"fra:item/head/kris"},
