@@ -1,0 +1,15 @@
+{
+	"textures": {
+		"particle": "fra:block/cyber_circuit_corner",
+		"face": "fra:block/cyber_circuit_corner"
+	},
+	"elements": [
+		{
+			"from": [0, -16, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#face", "cullface": "up"}
+			}
+		}
+	]
+}
